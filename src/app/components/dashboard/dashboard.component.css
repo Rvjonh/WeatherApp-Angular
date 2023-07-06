@@ -1,0 +1,14 @@
+.hide-error{
+    animation: hide-block 2.5s ease-out;
+}
+@keyframes hide-block {
+    0%{
+        opacity: 1;
+    }
+    70%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}
